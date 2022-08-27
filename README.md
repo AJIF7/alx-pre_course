@@ -1,2 +1,2 @@
-echo 'up_to_date' > up_to_date
-cat up_to_date
+My first read me
+updated
